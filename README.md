@@ -71,5 +71,5 @@ sentiment-app/
 
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
-| Membre A | Hiba AIT BAHJA | [@hibaaitbahja] | Analyse du cadrage et remplissage des fiches |
-| Membre B | Oussama MOUHSINE | [@oussamamouhsine] | Mise en place de l’environnement et validation du dépôt |
+| Membre A | Hiba Ayatallah | [@hibaayatallah] | Analyse du cadrage et remplissage des fiches |
+| Membre B | Hiba Ayatallah | [@hibaayatallah] | Mise en place de l’environnement et validation du dépôt |
